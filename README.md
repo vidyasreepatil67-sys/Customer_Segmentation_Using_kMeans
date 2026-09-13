@@ -4,8 +4,8 @@ Customer Segmentation is an unsupervised machine learning project that uses the 
 The project helps identify different customer groups, which can be useful for understanding customer behavior and creating targeted marketing strategies.
 
 Technologies Used
-Python
-Pandas
-Matplotlib
-Scikit-learn
-K-Means Clustering
+1.Python
+2.Pandas
+3.Matplotlib
+4.Scikit-learn
+5.K-Means Clustering
